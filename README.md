@@ -12,8 +12,8 @@ This is a React Native application for a fashion store that allows users to brow
 Clone the repository:
 
 ``sh
-git clone https://github.com/yourusername/fashion-store-app.git
-cd fashion-store-app
+https://github.com/schooltech1/rn-assignment6-11356857.git
+cd my-app
 ``
 
 Install the dependencies:
@@ -79,3 +79,9 @@ const removeFromCart = async (productId) => {
 - Navigation: React Navigation is used for managing navigation between the home and cart screens, providing a clean and intuitive user flow.
   
 - AsyncStorage: Chosen for its simplicity and effectiveness in storing key-value pairs, ensuring data persistence without the need for a more complex database solution.
+
+
+
+
+## Screen Recording
+https://github.com/schooltech1/rn-assignment6-11356857/assets/170237696/cb5273b3-a9a8-4b46-aa42-23592b5f6d54
